@@ -1,0 +1,32 @@
+{
+    "status": "ok",
+    "totalResults": 2,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "CBS Sports"
+            },
+            "author": "",
+            "title": "2023 NCAA championship: Breaking down who has the edge in UConn vs. San Diego State matchup - CBS Sports",
+            "description": "Who has the edge at the key positions in the national championship game on Monday night?",
+            "url": "https://www.cbssports.com/college-basketball/news/2023-ncaa-championship-breaking-down-who-has-the-edge-in-uconn-vs-san-diego-state-matchup/",
+            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2023/04/02/b1f9fada-1978-4b6e-b0ab-8f13567b9acf/thumbnail/1200x675/88768a8a2b4b1252f08dfbd7954f2de1/mm-2023-championship-v2.png",
+            "publishedAt": "2023-04-03T06:33:00Z",
+            "content": "You can pick apart Monday night's national championship game between No. 4 seed UConn and No. 5 seed San Diego State from myriad angles -- and believe me, we will! -- but no singular piece of analysi… [+5033 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "2023 BMW M2 Manual vs Automatic Showdown: Our Ultimate Review - BMWBLOG",
+            "description": "Join us as we take the 2023 BMW M2 for a spin and give you an in-depth review of this thrilling sports car. We'll be testing both the six-speed manual and ei...",
+            "url": "https://www.youtube.com/watch?v=HqxJLecCotQ",
+            "urlToImage": "https://i.ytimg.com/vi/HqxJLecCotQ/maxresdefault.jpg",
+            "publishedAt": "2023-04-02T22:00:04Z",
+            "content": null
+        }
+    ]
+}
